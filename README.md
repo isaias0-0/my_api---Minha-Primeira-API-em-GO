@@ -1,7 +1,4 @@
 # my_api---Minha-Primeira-API-em-GO
-
-Abaixo está um **README.md completo e profissional** para o seu repositório. Estruturei com base em boas práticas usadas em projetos de API em Go (Gin, REST, etc.) ([Go Packages][1])
-
 ---
 
 # 🚀 Minha Primeira API em Go
